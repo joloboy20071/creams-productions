@@ -1,7 +1,6 @@
 ---
 cover: .gitbook/assets/creams-productions_banner.png
 coverY: -22.403190717911528
-layout: landing
 ---
 
 # Creams Productions
