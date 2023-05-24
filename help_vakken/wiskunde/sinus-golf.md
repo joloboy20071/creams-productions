@@ -25,3 +25,10 @@ a = amplitude\
 $$b= \frac{2\pi}{periode}$$ of $$periode= \frac{2\pi}{b}$$\
 c = Verschuifing: naar links = +. naar rechts= -.
 
+$$
+\alpha = (\frac{x}{\pi}) \ \cdot 180
+$$
+
+$$\alpha$$= hoek in graden\
+x = omtrek deel van de cirkel
+
