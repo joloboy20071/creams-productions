@@ -3,7 +3,6 @@
 ## main <a href="#other" id="other"></a>
 
 * [Creams Productions](README.md)
-* [over Creams](other/over-creams.md)
 
 ## Notities <a href="#help_vakken" id="help_vakken"></a>
 
