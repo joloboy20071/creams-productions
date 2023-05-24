@@ -1,5 +1,6 @@
 ---
-coverY: 0
+cover: .gitbook/assets/creams-productions_banner.png
+coverY: 70
 layout: landing
 ---
 
