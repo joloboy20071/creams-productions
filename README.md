@@ -5,12 +5,20 @@ coverY: -22.403190717911528
 
 # Creams Productions
 
-Welcome bij Creams productions.&#x20;
+Welkom bij Creams-Productions,
 
-op de Creams Productions website kan je van alles vinden, zoals samenvattingen, progamma's en zelfs meme's. dit is allemaal gemaakt door creams productions of in samenwerking met ons. Ik hoop dan ook dat je hier alles kan vinden wat je nodig hebt
+een website met het doel jou te helpen als je dingen niet snapt of als je jezelf verveelt. Denk aan school-aantekeningen, een chess-ai of memes, je kunt het zo gek niet bedenken. \
+Alle producten op de site zijn gemaakt in samenwerking of door Creams-Productions.\
+Wij van Creams-Productions hopen dat u alle info die u zoekt kunt vinden.
 
 ## Over Creams
 
-Creams productions is een onfficiële organizatie gemaakt door Creams. Deze "organizatie"  is bedoelt voor het leren van nieuwe dingen en mensen te helpen met dingen moest leren vanuit mij zelf, zoals progameren, pedo pas maken ,een chess ai en nog veel meer.
+Creams-Productions is een onofficiële organisatie gesticht door de heer Creams, Creams heeft deze organisatie gestart uit interesse voor het leren van nieuwe dingen.&#x20;
 
-Het doel van Creams Productions is dan ook om mensen te helpen
+Sinds dit jaar is Creams-Productions ook gestart met school-aantekeningen maken en publiceren, deze aantekeningen krijgt de organisatie anoniem binnen van vrijwilligers die graag aantekeningen van leraren delen met de rest van de scholieren.&#x20;
+
+Dus een organisatie uit interesse gestart die al haar projecten deelt met de wereld, dat is wat je vindt bij Creams-Productions.
+
+## Aantekeningen delen?
+
+Wilt u nou een bijdrage doen aan de aantekeningen van Creams-Productions, mail dan naar creams.productios.inc@gmail.com uw bijdragen zal anoniem verwerkt worden.
