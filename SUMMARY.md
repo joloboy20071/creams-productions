@@ -17,3 +17,9 @@
     * [voorbeeld 3](help\_vakken/informatica/d1-toets-arduino-mail-opdracht/voorbeeld-3.md)
 * [Nederlands](help\_vakken/nederlands/README.md)
   * [formuleren h7](help\_vakken/nederlands/formuleren-h7.md)
+
+## Projects
+
+* [Projects](projects/projects/README.md)
+  * [Project: Focus](projects/projects/project-focus.md)
+  * [chess ai 3.0](projects/projects/chess-ai-3.0.md)
