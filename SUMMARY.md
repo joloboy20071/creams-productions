@@ -9,7 +9,7 @@
 * [Notities](help\_vakken/notities.md)
 * [Scheikunde](help\_vakken/scheikunde.md)
 * [wiskunde](help\_vakken/wiskunde/README.md)
-  * [Sinus golf](help\_vakken/wiskunde/sinus-golf.md)
+  * [Goniometrie](help\_vakken/wiskunde/goniometrie.md)
 * [informatica](help\_vakken/informatica/README.md)
   * [D1 toets Arduino (mail opdracht)](help\_vakken/informatica/d1-toets-arduino-mail-opdracht/README.md)
     * [voorbeeld 1](help\_vakken/informatica/d1-toets-arduino-mail-opdracht/voorbeeld-1.md)
