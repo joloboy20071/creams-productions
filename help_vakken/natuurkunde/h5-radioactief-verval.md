@@ -151,7 +151,7 @@ $$
 | :---: | :--------------: |
 |  28F  | Halveringsdiktes |
 |  25A  |  Isotopen tabel  |
-|   20  |     spectrum     |
+|  19A  |     spectrum     |
 
 ## vaste waarden
 
