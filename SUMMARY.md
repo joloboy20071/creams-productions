@@ -8,15 +8,17 @@
 
 * [Notities](help\_vakken/notities.md)
 * [Scheikunde](help\_vakken/scheikunde.md)
-* [wiskunde](help\_vakken/wiskunde/README.md)
+* [Wiskunde](help\_vakken/wiskunde/README.md)
   * [Goniometrie](help\_vakken/wiskunde/goniometrie.md)
-* [informatica](help\_vakken/informatica/README.md)
+* [Informatica](help\_vakken/informatica/README.md)
   * [D1 toets Arduino (mail opdracht)](help\_vakken/informatica/d1-toets-arduino-mail-opdracht/README.md)
     * [voorbeeld 1](help\_vakken/informatica/d1-toets-arduino-mail-opdracht/voorbeeld-1.md)
     * [voorbeeld 2](help\_vakken/informatica/d1-toets-arduino-mail-opdracht/voorbeeld-2.md)
     * [voorbeeld 3](help\_vakken/informatica/d1-toets-arduino-mail-opdracht/voorbeeld-3.md)
 * [Nederlands](help\_vakken/nederlands/README.md)
   * [formuleren h7](help\_vakken/nederlands/formuleren-h7.md)
+* [Natuurkunde](help\_vakken/natuurkunde/README.md)
+  * [H5 Radioactief verval](help\_vakken/natuurkunde/h5-radioactief-verval.md)
 
 ## Projects
 
