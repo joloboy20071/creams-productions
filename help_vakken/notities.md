@@ -16,3 +16,11 @@ coverY: 0
 {% content-ref url="informatica/" %}
 [informatica](informatica/)
 {% endcontent-ref %}
+
+{% content-ref url="nederlands/" %}
+[nederlands](nederlands/)
+{% endcontent-ref %}
+
+{% content-ref url="natuurkunde/" %}
+[natuurkunde](natuurkunde/)
+{% endcontent-ref %}
