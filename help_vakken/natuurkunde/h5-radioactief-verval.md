@@ -4,7 +4,7 @@
 
 ### Halverings formules:
 
-Al deze formules kunnen gebruikt worden voor : intensiteit, activiteit en instablien kernen
+Al deze formules kunnen gebruikt worden voor : intensiteit, activiteit en instabliele kernen
 
 $$
 Resterend\ (\%) = \frac{100}{2^{n}}
@@ -29,6 +29,29 @@ $$
 {% hint style="info" %}
 Deze formule gebruik je voor het vinden van hoe vaak je wilt halveren \
 de halverings dikte kan je vinden op binas tabel 28F
+{% endhint %}
+
+### instabliele kernen
+
+$$
+N=\frac{m}{m_{a}}
+$$
+
+{% hint style="info" %}
+N = aantal instabliele kernen&#x20;
+
+m = massa in kg
+
+ma = massa van een atoom in kg
+{% endhint %}
+
+$$
+m_{a}=u_{1}\cdot u_{2} \ of\ m_{a}=u_{1}\cdot 1,66\cdot 10^{-27}
+$$
+
+{% hint style="info" %}
+u1 = de atoom massa van de atoom\
+u2 = de massa van 1 u die gelijk is aan $$1,66\cdot 10^{-27}$$kg
 {% endhint %}
 
 ### Activiteit formules
@@ -154,4 +177,12 @@ $$
 
 {% hint style="info" %}
 h staat voor de constante van planck
+{% endhint %}
+
+$$
+u=1,66\cdot{10^{-27}}
+$$
+
+{% hint style="info" %}
+gewicht van 1 mol massa
 {% endhint %}
