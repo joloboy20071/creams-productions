@@ -10,6 +10,7 @@
 * [Scheikunde](help\_vakken/scheikunde.md)
 * [Wiskunde](help\_vakken/wiskunde/README.md)
   * [Goniometrie](help\_vakken/wiskunde/goniometrie.md)
+  * [Logaritmische functies](help\_vakken/wiskunde/logaritmische-functies.md)
 * [Informatica](help\_vakken/informatica/README.md)
   * [D1 toets Arduino (mail opdracht)](help\_vakken/informatica/d1-toets-arduino-mail-opdracht/README.md)
     * [voorbeeld 1](help\_vakken/informatica/d1-toets-arduino-mail-opdracht/voorbeeld-1.md)

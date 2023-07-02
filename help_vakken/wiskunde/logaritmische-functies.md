@@ -1,0 +1,151 @@
+---
+description: 4 Havo notities
+---
+
+# Logaritmische functies
+
+## Simple log functies
+
+$$
+^{10}\log({1000})=3
+$$
+
+$$
+10^{3}=1000
+$$
+
+## Exacte oplossing van $$g^{x}=a$$
+
+De exacte oplossing van $$g^{x}=a$$ is $$x=\ ^{g}log(a)$$\
+De exacte oplossing van $$x=\ ^{g}log(a)$$ is $$g^{x}=a$$
+
+door deze twee vergelijkingen kan je zeggen dat $$g^{^{g}\log(a)}=a$$
+
+## Halverings en verdubbelingstijd
+
+### Verdubbelings formule
+
+$$
+g^{t}=2
+$$
+
+g = groei factor\
+t = hoeveel tijd periodes
+
+#### voorbeeld 1
+
+$$g=1.15$$\
+$$t=?$$\
+$$g^{t}=2\ =\ 1.15^t=2$$\
+$$t=\ ^{1.15}\log(2) \approx 4.96$$
+
+### Halverings formule
+
+$$
+g^{t}=\frac{1}{2}
+$$
+
+g = groei factor\
+t = hoeveel tijd periode
+
+#### Voorbeeld 2
+
+$$g=1.15$$ \
+$$t=?$$\
+$$g^{t}=\frac{1}{2}\ =1.15^{t}=\frac{1}{2}$$ \
+$$t=\ ^{1.15}\log(\frac{1}{2}) \approx -4.96$$
+
+{% hint style="info" %}
+als je een van de twee uit komsten hebt dan kan je de andere heel makelijk vinden door het getal negatief of positief te maken. Kijk uitkomst voorbeeld 1 & 2.&#x20;
+{% endhint %}
+
+## Rekenregls logoritmen
+
+1. $$\ ^{g}\log(a) +\ ^{g}\log(b)=\ ^{g}\log(a\cdot b)$$\
+   \
+   _**voorbeeld**_\
+   $$\ ^{2}\log(4)+\ ^{2}\log(8)=5$$ \
+   $$\ ^{2}\log(4\cdot 8)=5$$\
+   $$\ ^{2}\log(4)+\ ^{2}\log(8)=\ ^{2}\log(4\cdot 8)=5$$\
+
+2. $$\ ^{g}\log(a)-\ ^{g}\log(b) =\ ^{g}\log(\frac{a}{b})$$\
+   \
+   _**voorbeeld**_\
+   $$\ ^{2}\log(4)-\ ^{2}\log(8) =-1$$\
+   $$\ ^{2}\log(\frac{4}{8})=-1$$\
+   $$\ ^{2}\log(4)-\ ^{2}\log(8) =\ ^{2}\log(\frac{4}{8})=-1$$\
+
+3. $$p\cdot\ ^{g}\log(a) =\ ^{g}\log(a^{p})$$ \
+   \
+   _**voorbeeld**_\
+   $$3\cdot \ ^{2}\log(4) =6$$\
+   $$\ ^{g}\log(4^{3})=6$$\
+   $$3\cdot\ ^{2}\log(4) =\ ^{2}\log(4^{3})=6$$\
+
+4. $$g^{^{g}\log(a)}=a$$\
+   \
+   _**voorbeeld**_\
+   $$2^{^{2}\log(4)}=4$$ \
+
+5. $$\ ^{g}\log(a)=\frac{^{2}\log(a)}{^{2}\log(g)}$$  \
+   \
+   _**voorbeeld**_\
+   $$\ ^{9}\log(5)\approx 0.73$$\
+   $$\frac{^{2}\log(5)}{^{2}\log(9)}\approx 0.73$$\
+   $$\ ^{9}\log(5)=\frac{^{2}\log(5)}{^{2}\log(9)}\approx0.73$$\
+
+6. $$\ ^{g}\log(a)=\frac{\log(a)}{\log(g)}$$ \
+   \
+   _**voorbeeld**_\
+   $$\ ^{2}\log(4)=2$$ \
+   $$\frac{\log(4)}{\log(2)}=2$$ \
+   $$\ ^{2}\log(4)=\frac{\log(4)}{\log(2)}=2$$
+
+## Domein, bereik, nulpunt, asymptoot
+
+$$f(x) = \ ^{g}\log(x+b)$$  \
+domein $$=x+b>0$$\
+asymptoot $$=-b$$\
+nulpunt $$=x+b=1$$\
+
+
+## Herleiden
+
+$$
+g^{b} = a \ \ \ \ \ \  b=\ ^{g}\log(a)
+$$
+
+_**voorbeeld 1**_\
+$$16+\ ^{4}\log(2q)=p$$ \
+$$\ ^{4}log(2q)=p-16$$ \
+$$2q=4^{p-16}$$\
+$$q=\frac{1}{2}\cdot4^{p-16}$$ \
+
+
+_**voorbeeld 2**_\
+$$r=4\cdot 1,5^{s}$$\
+$$\frac{1}{4}r=1,5^{s}$$\
+$$4=\ ^{1.5}\log(\frac{1}{4}r)$$\
+
+
+## Log ongelijkheden
+
+{% hint style="danger" %}
+Los altijd eerst de vergelijking op! Voordat je een conclusie trekt. Onthoud dat domein ook nog een ding is &#x20;
+{% endhint %}
+
+**Voobeeld**\
+$$3-\ ^{2}log(x+2)>7$$\
+$$3-\ ^{2}log(x+2)=7$$\
+$$-\ ^{2}log(x+2)=4$$\
+$$\ ^{2}log(x+2)=-4$$\
+$$x+2=2^{-4}$$\
+Dus $$x=-1\frac{15}{16}$$\
+Het domein van deze functie is -2. Zie hoofdstuk domein voor meer info\
+Dus de oplossing is\
+$$-2<x<-1\frac{15}{16}$$
+
+{% hint style="info" %}
+je kan altijd je plotter op de rekenmachine gebruiken om je antwoord na te kijken als deze niet het zelfde zijn weet je zeker dat je wat verkeerd hebt gedaan
+{% endhint %}
+
