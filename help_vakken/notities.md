@@ -9,8 +9,8 @@ coverY: 0
 [wiskunde](wiskunde/)
 {% endcontent-ref %}
 
-{% content-ref url="scheikunde.md" %}
-[scheikunde.md](scheikunde.md)
+{% content-ref url="scheikunde/" %}
+[scheikunde](scheikunde/)
 {% endcontent-ref %}
 
 {% content-ref url="informatica/" %}

@@ -7,7 +7,8 @@
 ## Notities <a href="#help_vakken" id="help_vakken"></a>
 
 * [Notities](help\_vakken/notities.md)
-* [Scheikunde](help\_vakken/scheikunde.md)
+* [Scheikunde](help\_vakken/scheikunde/README.md)
+  * [Scheikunde(Havo 4) h1 & h2](help\_vakken/scheikunde/scheikunde-havo-4-h1-and-h2.md)
 * [Wiskunde](help\_vakken/wiskunde/README.md)
   * [Goniometrie](help\_vakken/wiskunde/goniometrie.md)
   * [Logaritmische functies](help\_vakken/wiskunde/logaritmische-functies.md)
