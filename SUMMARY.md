@@ -17,6 +17,7 @@
     * [voorbeeld 1](help\_vakken/informatica/d1-toets-arduino-mail-opdracht/voorbeeld-1.md)
     * [voorbeeld 2](help\_vakken/informatica/d1-toets-arduino-mail-opdracht/voorbeeld-2.md)
     * [voorbeeld 3](help\_vakken/informatica/d1-toets-arduino-mail-opdracht/voorbeeld-3.md)
+  * [co-teach c2 (SQL)](help\_vakken/informatica/co-teach-c2-sql.md)
 * [Nederlands](help\_vakken/nederlands/README.md)
   * [formuleren h7](help\_vakken/nederlands/formuleren-h7.md)
 * [Natuurkunde](help\_vakken/natuurkunde/README.md)
