@@ -59,9 +59,69 @@ TIME() //Gets current time. The parentheses stay empty
 ### MIN(kolomnaam)
 
 ```sql
-MIN(kolomnaam) //gets the minimum amount of a group ints in a tabel
+MIN(kolomnaam) //gets the minimum amount of a group ints in a table
 ```
 
+### MAX(kolomnaam)
 
+```sql
+MAX(kolomnaam) // gets the maximum of a group of integers in a table
+```
 
-###
+### SUM(kolomnaam)
+
+```sql
+SUM(kolomnaam) //gets the sum of all the integers in a table
+```
+
+### AVG(kolomnaam)
+
+```sql
+AVG(kolomnaam) // gets a average of all the integers in a table
+```
+
+### COUNT(\*)
+
+```sql
+COUNT(*) //returns an integer value of the total amount of rows in a table
+```
+
+### DISTINCT(kolomnaam)
+
+```sql
+DISTINCT(kolomnaam) //only returns unique value's 
+```
+
+### UPPER(Kolomnaam)
+
+```sql
+UPPER(kolomnaam) // make all chars in a table of strings uppercase
+```
+
+### LOWER(kolomnaam)
+
+```sql
+LOWER(kolomnaam) // does the opposite of upper so it makes everything 
+                 // lower case
+```
+
+### SUBSTR(kolomnaam, startwaarde, lengte)
+
+```sql
+SELECT SUBSTR(naam, 1,3)
+FROM bezorger
+
+// this returns from every bezorger the first three letters of there name
+```
+
+### LENGTH(kolomnaam)
+
+```sql
+LENGTH(kolomnaam) // returns a integer of the length of a string
+```
+
+### CAST(... AS Interger)
+
+```sql
+CAST(... AS Interger)// turns number stored as string into a integer type
+```
