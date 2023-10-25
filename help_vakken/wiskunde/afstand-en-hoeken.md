@@ -22,6 +22,8 @@ Dat deze twee formules bestaan betekent dat er in sommige gevallen twee oplossin
 
 
 
+***
+
 ## Cosinusregel
 
 
@@ -39,3 +41,27 @@ c^{2}=a^{2}+b^{2}-2\cdot a \cdot b \cdot \cos(\gamma)
 $$
 
 In een driehoek kun je een zijde berekenen als je de lengte van de andere zijden en de grootte van de tegenoverliggende hoek kent. De regel die je gebruikt heet de cosinusregel. Je kunt deze formules ook gebruiken om in een driehoek de grootte van de hoeken te berekenen als je de lengte van alle zijden kent, maar dit te kunnen moet je hem natuurlijk wel om schrijven
+
+***
+
+## Meetkundige vraagstukken oplossen
+
+
+
+### de afstand tussen twee punten
+
+de formule voor de afstand tussen twee punten P en Q is
+
+$$
+PQ=\sqrt{(x_p - x_q)^{2}+(y_p - y_q)^{2}}
+$$
+
+### De richtingscoëffciënt van een lijn&#x20;
+
+$$
+m_1 \cdot m_2 = -1
+$$
+
+{% hint style="danger" %}
+Let op! deze regel geldt aleen als deze twee lijnen loodrecht op elkaar staan
+{% endhint %}
