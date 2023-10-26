@@ -10,7 +10,7 @@
 * [Scheikunde](help\_vakken/scheikunde/README.md)
   * [Scheikunde(Havo 4) h1 & h2](help\_vakken/scheikunde/scheikunde-havo-4-h1-and-h2.md)
 * [Wiskunde](help\_vakken/wiskunde/README.md)
-  * [Functies bewerken](help\_vakken/wiskunde/functies-bewerken.md)
+  * [10. Functies bewerken](help\_vakken/wiskunde/10.-functies-bewerken.md)
   * [Afstand en hoeken](help\_vakken/wiskunde/afstand-en-hoeken.md)
   * [Goniometrie](help\_vakken/wiskunde/goniometrie.md)
   * [Logaritmische functies](help\_vakken/wiskunde/logaritmische-functies.md)
