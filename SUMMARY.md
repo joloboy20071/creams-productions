@@ -10,6 +10,7 @@
 * [Scheikunde](help\_vakken/scheikunde/README.md)
   * [Scheikunde(Havo 4) h1 & h2](help\_vakken/scheikunde/scheikunde-havo-4-h1-and-h2.md)
   * [Scheikunde(Havo 4) H3](help\_vakken/scheikunde/scheikunde-havo-4-h3.md)
+  * [Scheikunde Havo 5 h7](help\_vakken/scheikunde/scheikunde-havo-5-h7.md)
 * [Wiskunde](help\_vakken/wiskunde/README.md)
   * [10. Functies bewerken](help\_vakken/wiskunde/functies-bewerken.md)
   * [9. Afstand en hoeken](help\_vakken/wiskunde/9.-afstand-en-hoeken.md)
