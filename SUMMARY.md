@@ -26,6 +26,7 @@
 * [Nederlands](help\_vakken/nederlands/README.md)
   * [formuleren h7](help\_vakken/nederlands/formuleren-h7.md)
 * [Natuurkunde](help\_vakken/natuurkunde/README.md)
+  * [H7 natuurkunde golven](help\_vakken/natuurkunde/h7-natuurkunde-golven.md)
   * [H5 Radioactief verval](help\_vakken/natuurkunde/h5-radioactief-verval.md)
 
 ## Projects
