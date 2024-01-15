@@ -44,3 +44,5 @@ Bindingen in structuur formules bij een -OH groep **MOETEN ALTIJD** naar de O wi
 
 <figure><img src="../../.gitbook/assets/peptide_amidegrope.png" alt=""><figcaption></figcaption></figure>
 
+## Binas
+
