@@ -30,7 +30,7 @@
 * [Natuurkunde](help\_vakken/natuurkunde/README.md)
   * [H7 natuurkunde golven](help\_vakken/natuurkunde/h7-natuurkunde-golven.md)
   * [H5 Radioactief verval](help\_vakken/natuurkunde/h5-radioactief-verval.md)
-  * [H8 sport en verkeer](help\_vakken/natuurkunde/h8-sport-en-verkeer.md)
+  * [sport en verkeer](help\_vakken/natuurkunde/sport-en-verkeer.md)
 
 ## Projects
 
