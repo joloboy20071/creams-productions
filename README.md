@@ -13,7 +13,7 @@ Wij van Creams-Productions hopen dat u alle info die u zoekt kunt vinden.
 
 ## Over Creams
 
-Creams-Productions is een onofficiële organisatie gesticht door de heer Creams, Creams heeft deze organisatie gestart uit interesse voor het leren van nieuwe dingen.&#x20;
+Creams-Productions is een officiële organisatie gesticht door de heer Creams, Creams heeft deze organisatie gestart uit interesse voor het leren van nieuwe dingen.&#x20;
 
 Sinds dit jaar is Creams-Productions ook gestart met school-aantekeningen maken en publiceren, deze aantekeningen krijgt de organisatie anoniem binnen van vrijwilligers die graag aantekeningen van leraren delen met de rest van de scholieren.&#x20;
 
@@ -22,3 +22,5 @@ Dus een organisatie uit interesse gestart die al haar projecten deelt met de wer
 ## Aantekeningen delen?
 
 Wilt u nou een bijdrage doen aan de aantekeningen van Creams-Productions, mail dan naar creams.productios.inc@gmail.com uw bijdragen zal anoniem verwerkt worden.
+
+#### Kvk nummer: 92987052
