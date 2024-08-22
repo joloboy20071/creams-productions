@@ -88,7 +88,7 @@ n = 1,2,3,... ect
 
 ### Transvertale / longitudinale golven
 
-<figure><img src="../../.gitbook/assets/trans en long golfen example.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/trans en long golfen example.png" alt=""><figcaption></figcaption></figure>
 
 ### Transvertale golf
 
