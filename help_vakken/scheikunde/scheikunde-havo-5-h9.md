@@ -16,7 +16,7 @@ Poly- betekend veel
 
 ### Polyadditie
 
-<figure><img src="../../../.gitbook/assets/polyaditie.png" alt=""><figcaption><p>een polymeer</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/polyaditie.png" alt=""><figcaption><p>een polymeer</p></figcaption></figure>
 
 ### Condensatie / hyrdolyse
 
@@ -36,11 +36,11 @@ R - C - OH  + HO - R <-    R - C - O - R + H2O    \
 
 Soort 1
 
-<figure><img src="../../../.gitbook/assets/polyester1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/polyester1.png" alt=""><figcaption></figcaption></figure>
 
 Soort 2
 
-<figure><img src="../../../.gitbook/assets/polester 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/polester 2.png" alt=""><figcaption></figcaption></figure>
 
 ### Polyamide
 
@@ -48,11 +48,11 @@ er zijn twee soorten polyamides
 
 Soort 1
 
-<figure><img src="../../../.gitbook/assets/aminozuur 1&#x27;.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/aminozuur 1&#x27;.png" alt=""><figcaption></figcaption></figure>
 
 soort 2
 
-<figure><img src="../../../.gitbook/assets/aminiozuur2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/aminiozuur2.png" alt=""><figcaption></figcaption></figure>
 
 ### Polymeren
 
@@ -66,13 +66,13 @@ Thermoharder -> kunnen wel tegen warmte
 
 Thermoplast op micro niveau
 
-<figure><img src="../../../.gitbook/assets/thermoplast.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/thermoplast.png" alt=""><figcaption></figcaption></figure>
 
 een thermoplast eenige bindingen zijn van der waals binden of soms waterstof bruggen
 
 Thermoharder op micro niveau
 
-<figure><img src="../../../.gitbook/assets/thermoharder.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/thermoharder.png" alt=""><figcaption></figcaption></figure>
 
 een thermoharder zijn binding zijn veel sterker om dat ze met covelente bindingen tussen de mulecule ketens zitten wat ze dus veel meer beschermt tegen vervorming van hitte en kunnen dus niet over elkaar heen bewegen
 

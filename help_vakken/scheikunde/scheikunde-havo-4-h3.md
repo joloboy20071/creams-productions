@@ -163,7 +163,7 @@ dezelfde Molecuulformule maar met een andere structuurformule met een andere naa
 
 
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 [^1]: 
 

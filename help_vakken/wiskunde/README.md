@@ -5,8 +5,8 @@ coverY: 0
 
 # Wiskunde
 
-{% content-ref url="10.-functies-bewerken.md" %}
-[10.-functies-bewerken.md](10.-functies-bewerken.md)
+{% content-ref url="functies-bewerken.md" %}
+[functies-bewerken.md](functies-bewerken.md)
 {% endcontent-ref %}
 
 {% content-ref url="9.-afstand-en-hoeken.md" %}

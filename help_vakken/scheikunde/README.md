@@ -7,7 +7,7 @@ coverY: 0
 
 als je deze notities wilt zien moet je op het block kliken
 
-{% file src="../.gitbook/assets/scheikunde Havo 4 By Creams productions.pdf" %}
+{% file src="../../.gitbook/assets/scheikunde Havo 4 By Creams productions.pdf" %}
 scheikunde notities van hoofdstuk 1 t/m 6
 {% endfile %}
 

@@ -9,15 +9,15 @@ Eenheid: joule(j) of calorie(Cal)
 
 ### Vetten
 
-<figure><img src="../../../.gitbook/assets/3vetzurenglyserol.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3vetzurenglyserol.png" alt=""><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../../../.gitbook/assets/propaan1-2-3-triol.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/propaan1-2-3-triol.png" alt=""><figcaption></figcaption></figure>
 
 ### Olie en vetten
 
-<figure><img src="../../../.gitbook/assets/vet_olie (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/vet_olie (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Vethardings proces
 
@@ -32,7 +32,7 @@ Polysacherite -> zetmeel -> koolhydraat
 Monosacheriete (monomeer)\
 Disacherite:
 
-<figure><img src="../../../.gitbook/assets/disacherite.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/disacherite.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Bindingen in structuur formules bij een -OH groep **MOETEN ALTIJD** naar de O wijzen
@@ -40,9 +40,9 @@ Bindingen in structuur formules bij een -OH groep **MOETEN ALTIJD** naar de O wi
 
 ## 10.4
 
-<figure><img src="../../../.gitbook/assets/aminozuur_variableR.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/aminozuur_variableR.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/peptide_amidegrope.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/peptide_amidegrope.png" alt=""><figcaption></figcaption></figure>
 
 ## Binas
 

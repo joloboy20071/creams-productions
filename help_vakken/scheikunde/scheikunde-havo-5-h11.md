@@ -2,7 +2,7 @@
 
 ## Blokschema
 
-<figure><img src="../../../.gitbook/assets/E20hQVmFKI08cmgh6XQC-e.jpg" alt=""><figcaption><p>Bron: malberg Nova scheikunde</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/E20hQVmFKI08cmgh6XQC-e.jpg" alt=""><figcaption><p>Bron: malberg Nova scheikunde</p></figcaption></figure>
 
 {% hint style="info" %}
 Blokken betekenen een handeling en een pijl betekent een stof stroom
