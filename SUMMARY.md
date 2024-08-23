@@ -36,7 +36,9 @@
 
 ## Projects
 
-* [Creams Console Utilities package documentation](projects/creams-console-utilities-package-documentation.md)
+* [Creams Console Utilities package documentation](projects/creams-console-utilities-package-documentation/README.md)
+  * [Selection menu](projects/creams-console-utilities-package-documentation/selection-menu.md)
+  * [multiSelection menu](projects/creams-console-utilities-package-documentation/multiselection-menu.md)
 * [Projects](projects/projects/README.md)
   * [Project: Focus](projects/projects/project-focus.md)
   * [chess ai 3.0](projects/projects/chess-ai-3.0.md)
