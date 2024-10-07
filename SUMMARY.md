@@ -7,6 +7,11 @@
 ## Notities <a href="#help_vakken" id="help_vakken"></a>
 
 * [Notities](help\_vakken/notities.md)
+  * [software ontwikeling Avans](help\_vakken/notities/software-ontwikeling-avans/README.md)
+    * [Database(WIP)](help\_vakken/notities/software-ontwikeling-avans/database-wip/README.md)
+      * [Drop & Create table stament](help\_vakken/notities/software-ontwikeling-avans/database-wip/drop-and-create-table-stament.md)
+      * [Alter(WIP)](help\_vakken/notities/software-ontwikeling-avans/database-wip/alter-wip.md)
+      * [DataTypes(WIP)](help\_vakken/notities/software-ontwikeling-avans/database-wip/datatypes-wip.md)
   * [Scheikunde](help\_vakken/scheikunde/README.md)
     * [Scheikunde(Havo 4) h1 & h2](help\_vakken/scheikunde/scheikunde-havo-4-h1-and-h2.md)
     * [Scheikunde(Havo 4) H3](help\_vakken/scheikunde/scheikunde-havo-4-h3.md)
