@@ -10,7 +10,7 @@
   * [software ontwikeling Avans](help\_vakken/notities/software-ontwikeling-avans/README.md)
     * [Database(WIP)](help\_vakken/notities/software-ontwikeling-avans/database-wip/README.md)
       * [Drop & Create table stament](help\_vakken/notities/software-ontwikeling-avans/database-wip/drop-and-create-table-stament.md)
-      * [Alter(WIP)](help\_vakken/notities/software-ontwikeling-avans/database-wip/alter-wip.md)
+      * [Alter](help\_vakken/notities/software-ontwikeling-avans/database-wip/alter.md)
       * [DataTypes(WIP)](help\_vakken/notities/software-ontwikeling-avans/database-wip/datatypes-wip.md)
   * [Scheikunde](help\_vakken/scheikunde/README.md)
     * [Scheikunde(Havo 4) h1 & h2](help\_vakken/scheikunde/scheikunde-havo-4-h1-and-h2.md)

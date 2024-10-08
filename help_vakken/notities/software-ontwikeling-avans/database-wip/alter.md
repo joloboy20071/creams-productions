@@ -1,4 +1,8 @@
-# Alter(WIP)
+---
+description: a description of sql alter Statement
+---
+
+# Alter
 
 ***
 
@@ -49,3 +53,32 @@ DROP COLUMN email;
 ```
 
 removes column from table&#x20;
+
+***
+
+## ALTER RENAME COLUMN
+
+***
+
+### syntax
+
+```sql
+ALTER TABLE TableName
+RENAME COLUMN OldName TO NewName
+```
+
+***
+
+## ALTER COLUMN Datatype
+
+***
+
+### syntax
+
+```sql
+ALTER TABLE TableName
+ALTER COLUMN ColumnName DataType;
+```
+
+the datatype speseficy what we would like to be stored in a collums fields\
+for available Datatype check [datatype page](datatypes-wip.md)

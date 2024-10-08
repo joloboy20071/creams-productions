@@ -8,8 +8,8 @@ description: Avans hogeschool software development databases
 [drop-and-create-table-stament.md](drop-and-create-table-stament.md)
 {% endcontent-ref %}
 
-{% content-ref url="alter-wip.md" %}
-[alter-wip.md](alter-wip.md)
+{% content-ref url="alter.md" %}
+[alter.md](alter.md)
 {% endcontent-ref %}
 
 {% content-ref url="datatypes-wip.md" %}
