@@ -18,7 +18,7 @@ in zinnen met 'ontkennende' werkwoorden (nooit,geen,verbieden,enz).\
 wordt soms een foute tweede ontkenning toegevoegd
 
 **Voorbeeld:**\
-**Ik **_**verbied**_** jullie om geen mobieltjes te gebruiken in de les.** \
+**Ik&#x20;**_**verbied**_**&#x20;jullie om geen mobieltjes te gebruiken in de les.** \
 wat je hier eigenlijk zegt is dat je telefoon wel mag gebruiken
 
 ### Onjuiste herhaling

@@ -42,9 +42,9 @@ Console.WriteLine(output);
 
 #### Output
 
-<figure><img src="../../.gitbook/assets/selectionMenu.png" alt=""><figcaption><p>with exit</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/selectionMenu.png" alt=""><figcaption><p>with exit</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/selectionMenu1.png" alt=""><figcaption><p>without exit</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/selectionMenu1.png" alt=""><figcaption><p>without exit</p></figcaption></figure>
 
 
 

@@ -83,7 +83,7 @@ $$k(x)=3^{3x-7}$$
 
 net als bij spiegelen in de x-as is het bij de y-as ook net als een vermenigvuldiging met de y-as maar dan met -1 \
 \
-_Template_
+&#xNAN;_&#x54;emplate_
 
 $$
 g(x)=f(\frac{1}{-1}\cdot x)
@@ -125,7 +125,7 @@ $$x=\ ^{2}\log(\frac{1}{3}y-2)$$\
 
 $$f_{p}(x)=px+2$$ deze formule hoor bij een famillie van functies en omdat p een perameter is kan heel veel verschildende dingen in voor p in voeren om de formule te beïnvloeden. Met een beetje extra gegevens kan je p berekenen\
 \
-_**Voorbeeld: Bereken p als**_  $$f_{p}(x)=x^{2}+px-4$$ _**door punt P (4,2) gaat**_
+&#xNAN;_**Voorbeeld: Bereken p als**_  $$f_{p}(x)=x^{2}+px-4$$ _**door punt P (4,2) gaat**_
 
 Wat je heel simpel kan doen is je vult gewoon de coördinaten in de formule \
 $$f_{p}(x)=x^{2}+px-4$$\
