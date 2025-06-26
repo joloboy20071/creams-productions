@@ -43,6 +43,7 @@
 
 ## Projects
 
+* [Macropad v2](projects/macropad-v2.md)
 * [Creams Console Utilities package documentation](projects/creams-console-utilities-package-documentation/README.md)
   * [Version 2](projects/creams-console-utilities-package-documentation/version-2/README.md)
     * [valueBar](projects/creams-console-utilities-package-documentation/version-2/valuebar.md)
